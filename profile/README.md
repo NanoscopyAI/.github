@@ -28,10 +28,18 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 <a name="publications"></a>
 ## Selected Publications
 
-### Title
-Cite:
+### DataCurator.jl: Efficient, portable, and reproducible validation, curation, and transformation of large heterogeneous datasets using human-readable recipes compiled into machine verifiable templates
+#### [Source code](https://github.com/bencardoen/DataCurator.jl)
+#### Cite:
 ```bibtex
-citation entry
+@article{Cardoen2023,
+author = "Ben Cardoen and Hanene Ben Yedder and Sieun Lee and Ivan Robert Nabi and Ghassan Hamarneh",
+title = "{DataCurator.jl: Efficient, portable, and reproducible validation, curation, and transformation of large heterogeneous datasets using human-readable recipes compiled into machine verifiable templates}",
+year = "2023",
+month = "2",
+url = "https://www.techrxiv.org/articles/preprint/DataCurator_jl_Efficient_portable_and_reproducible_validation_curation_and_transformation_of_large_heterogeneous_datasets_using_human-readable_recipes_compiled_into_machine_verifiable_templates/22060118",
+doi = "10.36227/techrxiv.22060118.v1"
+}
 ```
 <a name="repos"></a>
 #### Source code
