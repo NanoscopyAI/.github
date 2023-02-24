@@ -31,7 +31,7 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 ### SPECHT: Self-tuning Plausibility Based Object Detection Enables Quantification of Conflict in Heterogeneous Multi-scale Microscopy
 #### [Source code](https://github.com/NanoscopyAI/SPECHT.jl)
 #### Cite:
-```bibtext
+```bibtex
 @article{cardoen2022specht,
   title={SPECHT: S elf-tuning P lausibility based object detection E nables quantification of C onflict in H et erogeneous multi-scale microscopy},
   author={Cardoen, Ben and Wong, Timothy and Alan, Parsa and Lee, Sieun and Matsubara, Joanne Aiko and Nabi, Ivan Robert and Hamarneh, Ghassan},
