@@ -36,14 +36,13 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 | [Smlmvis](https://github.com/NanoscopyAI/smlmvis)          | Pointcloud/dStorm     | Python  | VI,DF                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://doi.org/10.5281/zenodo.7226577)              | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/smlmvis)            |  bcardoen@sfu.ca
 | [SPECHT](https://github.com/NanoscopyAI/SPECHT.jl)          | 2D STED, voxel     | Julia  | WSOD-L, AD, CI, DE                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1371/journal.pone.0276726), [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://link.springer.com/article/10.1007/s00018-022-04585-8)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/SPECHT.jl)            |  bcardoen@sfu.ca
 
-
 Acronym legend of functionality/features:
 
 **Clustering (CL), Segmentation (SE), Weakly supervised object detection/localization (WSOD-L), Contrastive identification (CI), Classification (CA), Denoising (DE), Adaptive (AD), Localization (LO), Acceleration (AC), Visualization (VI), Data formats (DF)**
 
 <a name="publications"></a>
 ## Selected Publications
-
+TODO
 
 <a name="docs"></a>
 ### Documentation
