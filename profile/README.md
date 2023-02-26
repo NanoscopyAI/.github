@@ -17,14 +17,20 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 
 <a name="team"></a>
 ## Team
+
 <a name="resources"></a>
 ## Resources
+
 ### Imaging
+Our team has access to state of the art superresolution microscopes, includng but not limited to STED, dSTORM, and many more. [todo expand]
+
+
 ### Computational
+Our team is yearly awarded cluster compute resources from the [Digital Research Alliance](https://alliancecan.ca/en/services/advanced-research-computing), has priority access to Simon Fraser University's Solar Cluster, as well as the research computing cluster at the University of British Columbia, in addition to specialized workstations for low latency prototyping.
 
 <a name="news"></a>
 ## News
-[todo twitter/linkedin/mastodon]
+TODO
 
 <a name="software"></a>
 ## Software
@@ -35,17 +41,22 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 | [ERGO](https://github.com/NanoscopyAI/ERGO)          | Pointcloud<br>dStorm     | Python<br>Julia  | DE,LO,<br>WSOD-L                  | GPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1109/TMI.2019.2962361)   | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/ERGO)     | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/ERGO.jl/tree/main)      |  [@](bcardoen@sfu.ca)
 | [Smlmvis](https://github.com/NanoscopyAI/smlmvis)          | Pointcloud<br>dStorm     | Python  | VI,DF                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://doi.org/10.5281/zenodo.7226577)              | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/smlmvis)         | TODO   |  [@](bcardoen@sfu.ca)
 | [SPECHT](https://github.com/NanoscopyAI/SPECHT.jl)          | 2D STED<br>voxel     | Julia  | WSOD-L<br>AD, CI, DE                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1371/journal.pone.0276726), [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://link.springer.com/article/10.1007/s00018-022-04585-8)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/SPECHT.jl)    | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/SPECHT.jl/tree/main)        |  [@](bcardoen@sfu.ca)
+| [DataCurator](https://github.com/NanoscopyAI/DataCurator.jl)          | 2/3D voxel<br>pointcloud<br>HDF5, CSV     | Julia  | AC, DF, ST                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://www.techrxiv.org/articles/preprint/DataCurator_jl_Efficient_portable_and_reproducible_validation_curation_and_transformation_of_large_heterogeneous_datasets_using_human-readable_recipes_compiled_into_machine_verifiable_templates/22060118)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/DataCurator.jl)    | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/DataCurator.jl/tree/main)        |  [@](bcardoen@sfu.ca)
+| [LogParadox](https://github.com/NanoscopyAI/LogParadox.jl)          | CSV     | Julia  | ST                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://arxiv.org/abs/2302.04780)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/LogParadox.jl)    | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/LogParadox.jl/tree/main)        |  [@](bcardoen@sfu.ca)
+| [SmlmTools](https://github.com/NanoscopyAI/SmlmTools.jl)          | dSTORM     | Julia  | RT, LO                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://doi.org/10.5281/zenodo.7632321)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/SmlmTools.jl)    | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/SmlmTools.jl/tree/main)        |  [@](bcardoen@sfu.ca)
+| [MCS-Detect](https://github.com/NanoscopyAI/SubPrecisionContactDetection.jl)          | 3D STED     | Julia  | LO, DE, IC                   | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://www.biorxiv.org/content/10.1101/2022.06.23.497346v2)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/SubPrecisionContactDetection.jl)    | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/SubPrecisionContactDetection.jl/tree/main)        |  [@](bcardoen@sfu.ca)
+
 
 Acronym legend of functionality/features:
 
-**Clustering (CL), Segmentation (SE), Weakly supervised object detection/localization (WSOD-L), Contrastive identification (CI), Classification (CA), Denoising (DE), Adaptive (AD), Localization (LO), Acceleration (AC), Visualization (VI), Data formats (DF)**
+**Clustering (CL), Segmentation (SE), Weakly supervised object detection/localization (WSOD-L), Contrastive identification (CI), Classification (CA), Denoising (DE), Adaptive (AD), Localization (LO), Interaction/Colocalization (IC), Acceleration (AC), Visualization (VI), Data formats (DF), Statistics (ST), Registration/Tracking (RT)**
 
 <a name="publications"></a>
 ## Selected Publications
 TODO
 
-<a name="docs"></a>
-### Documentation
 
 <a name="contact"></a>
 ### Contact
+For public contact, please create an [issue](https://github.com/NanoscopyAI/.github/issues/new/choose). The individual projects have contact info listed above. Each publication also has corresponding authors.
+If you need private contact means, please create an issue and we will follow up with a private channel.
