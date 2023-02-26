@@ -30,12 +30,12 @@ Our team is yearly awarded cluster compute resources from the [Digital Research 
 
 <a name="news"></a>
 ## News
-TODO
+Coming soon
 
 <a name="software"></a>
 ## Software
 
-|  Name	        | Modality <br> datatype  	        | Language  	| Task                          | License  	        | Publication   	| Documentation | Tests |  Contact
+|  Name	        | Modality <br> datatype  	        | Language  	| Task                          | License  	        | Publication   	| Manual<br>& docs | Tests |  Contact
 |---	        |---	                |---	        |---                            |---	            |---	            |---            |---    |---
 | [SuperResNet](https://www.medicalimageanalysis.com/software/superresnet)   | Pointcloud<br>dStorm     | Matlab        | CL,SE,DE                      | Proprietary       | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1038/s41598-018-27216-4)               |    [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://www.medicalimageanalysis.com/software/superresnet/documentation)     | TODO  |  [@](ikhater@sfu.ca)
 | [ERGO](https://github.com/NanoscopyAI/ERGO)          | Pointcloud<br>dStorm     | Python<br>Julia  | DE,LO,<br>WSOD-L                  | GPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1109/TMI.2019.2962361)   | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/ERGO)     | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/tests.svg)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/ERGO.jl/tree/main)      |  [@](bcardoen@sfu.ca)
