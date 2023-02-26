@@ -53,7 +53,7 @@ Acronym legend of functionality/features:
 
 <a name="publications"></a>
 ## Selected Publications
-TODO
+See our [bibliography](https://raw.githubusercontent.com/NanoscopyAI/.github/main/bibliography.bib) for a complete listing of publications.
 
 
 <a name="contact"></a>
