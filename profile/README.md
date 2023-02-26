@@ -10,6 +10,7 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
     - Imaging
     - Computational
 - [News](#news)
+- [Software](#software)
 - [Publications](#publications)
 - [Documentation/walkthroughs/tutorials](#docs)
 - [Contact](#contact)
@@ -25,37 +26,24 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 ## News
 [todo twitter/linkedin/mastodon]
 
+<a name="software"></a>
+## Software
+
+|  Name	        | Modality  	        | Language  	| Task                          | License  	        | Publication   	| Documentation |  Contact
+|---	        |---	                |---	        |---                            |---	            |---	            |---            |---
+| [SuperResNet](https://www.medicalimageanalysis.com/software/superresnet)   | Pointcloud/dStorm     | Matlab        | CL,SE,DE                      | Proprietary       | TODO              | [Docs](https://www.medicalimageanalysis.com/software/superresnet/documentation)          |  ikhater@sfu.ca
+| [ERGO](https://github.com/NanoscopyAI/ERGO)          | Pointcloud/dStorm     | Python/Julia  | DE,WSOD-L,LO                  | GPLv3             | TODO              | TODO          |  bcardoen@sfu.ca
+| [Smlmvis](https://github.com/NanoscopyAI/smlmvis)          | Pointcloud/dStorm     | Python  | VI,DF                  | AGPLv3             | TODO              | TODO          |  bcardoen@sfu.ca
+| [SPECHT](https://github.com/NanoscopyAI/SPECHT.jl)          | 2D STED, voxel     | Julia  | WSOD-L, AD, CI, DE                  | AGPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1371/journal.pone.0276726L), [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1371/journal.pone.0276726L)               | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](http://dx.doi.org/10.1007/s00018-022-04585-8)            |  bcardoen@sfu.ca
+
+Acronym legend of functionality/features:
+
+**Clustering (CL), Segmentation (SE), Weakly supervised object detection/localization (WSOD-L), Contrastive identification (CI), Classification (CA), Denoising (DE), Adaptive (AD), Localization (LO), Acceleration (AC), Visualization (VI), Data formats (DF)**
+
 <a name="publications"></a>
 ## Selected Publications
 
-### SPECHT: Self-tuning Plausibility Based Object Detection Enables Quantification of Conflict in Heterogeneous Multi-scale Microscopy
-#### [Source code](https://github.com/NanoscopyAI/SPECHT.jl)
-#### Cite:
-```bibtex
-@article{cardoen2022specht,
-  title={SPECHT: S elf-tuning P lausibility based object detection E nables quantification of C onflict in H et erogeneous multi-scale microscopy},
-  author={Cardoen, Ben and Wong, Timothy and Alan, Parsa and Lee, Sieun and Matsubara, Joanne Aiko and Nabi, Ivan Robert and Hamarneh, Ghassan},
-  journal={Plos one},
-  volume={17},
-  number={12},
-  pages={e0276726},
-  year={2022},
-  publisher={Public Library of Science San Francisco, CA USA}
-}
-```
-### DataCurator.jl: Efficient, portable, and reproducible validation, curation, and transformation of large heterogeneous datasets using human-readable recipes compiled into machine verifiable templates
-#### [Source code](https://github.com/bencardoen/DataCurator.jl)
-#### Cite:
-```bibtex
-@article{Cardoen2023,
-author = "Ben Cardoen and Hanene Ben Yedder and Sieun Lee and Ivan Robert Nabi and Ghassan Hamarneh",
-title = "{DataCurator.jl: Efficient, portable, and reproducible validation, curation, and transformation of large heterogeneous datasets using human-readable recipes compiled into machine verifiable templates}",
-year = "2023",
-month = "2",
-url = "https://www.techrxiv.org/articles/preprint/DataCurator_jl_Efficient_portable_and_reproducible_validation_curation_and_transformation_of_large_heterogeneous_datasets_using_human-readable_recipes_compiled_into_machine_verifiable_templates/22060118",
-doi = "10.36227/techrxiv.22060118.v1"
-}
-```
+
 
 <a name="docs"></a>
 ### Documentation
