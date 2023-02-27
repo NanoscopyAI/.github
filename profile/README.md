@@ -8,7 +8,7 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 - [Team](#team)
 - [Resources](#resources)
     - Imaging
-    - Computational
+    - [Computational](#comp)
 - [News](#news)
 - [Software](#software)
 - [Publications](#publications)
@@ -24,7 +24,7 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 ### Imaging
 Our team has access to state of the art superresolution microscopes, includng but not limited to STED, dSTORM, and many more. [todo expand]
 
-
+<a name="comp"></a>
 ### Computational
 Our team is yearly awarded cluster compute resources from the [Digital Research Alliance](https://alliancecan.ca/en/services/advanced-research-computing), has priority access to Simon Fraser University's Solar Cluster, as well as the research computing cluster at the University of British Columbia, in addition to specialized workstations for low latency prototyping.
 
@@ -48,7 +48,6 @@ Coming soon
 
 
 Acronym legend of functionality/features:
-
 **Clustering (CL), Segmentation (SE), Weakly supervised object detection/localization (WSOD-L), Contrastive identification (CI), Classification (CA), Denoising (DE), Adaptive (AD), Localization (LO), Interaction/Colocalization (IC), Acceleration (AC), Visualization (VI), Data formats (DF), Statistics (ST), Registration/Tracking (RT)**
 
 <a name="publications"></a>
