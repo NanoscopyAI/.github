@@ -22,7 +22,7 @@ This is a collaboration between the research labs of [Professor Ivan Robert Nabi
 ## Resources
 
 ### Imaging
-Our team has access to state of the art superresolution microscopes, includng but not limited to STED, dSTORM, and many more. [todo expand]
+Our team has access to state of the art superresolution microscopes, including but not limited to STED, dSTORM, and many more. [todo expand]
 
 <a name="comp"></a>
 ### Computational
