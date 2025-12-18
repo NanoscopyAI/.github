@@ -37,7 +37,7 @@ Coming soon
 
 |  Name	        | Modality <br> datatype  	        | Language  	| Task                          | License  	        | Publication   	| Manual<br>& docs | Tests |  Contact
 |---	        |---	                |---	        |---                            |---	            |---	            |---            |---    |---
-| siMILe   |   tabular |  Python        | WSOD, CA                      | Proprietary       | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)]([http://dx.doi.org/10.1109/TMI.2019.2962361](https://doi.org/10.1101/2025.09.29.679377)) |    ![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/simile)     | - |  [@](cdh13@sfu.ca)
+| [siMILe](https://github.com/NanoscopyAI/simile)   |   tabular |  Python        | WSOD, CA                      | Proprietary       | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](https://doi.org/10.1101/2025.09.29.679377) |    [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/simile)     | - |  [@](cdh13@sfu.ca)
 | [SuperResNet](https://www.medicalimageanalysis.com/software/superresnet)   | Pointcloud<br>dStorm     | Matlab        | CL,SE,DE                      | Proprietary       | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1038/s41598-018-27216-4)               |    [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://www.medicalimageanalysis.com/software/superresnet/documentation)     | TODO  |  [@](ikhater@sfu.ca)
 | [SuperResNet Batch](https://github.com/NanoscopyAI/SuperResNET-Batch)   | Pointcloud<br>dStorm     | Matlab, Bash        | CL,SE,DE   | Proprietary       | TODO|    TODO     | TODO  |  [@](cdh13@sfu.ca)
 | [ERGO](https://github.com/NanoscopyAI/ERGO)          | Pointcloud<br>dStorm     | Python<br>Julia  | DE,LO,<br>WSOD-L                  | GPLv3             | [![DOI](https://github.com/NanoscopyAI/.github/raw/main/profile/doi.gif)](http://dx.doi.org/10.1109/TMI.2019.2962361)   | [![Github](https://github.com/NanoscopyAI/.github/blob/main/profile/docs.svg)](https://github.com/NanoscopyAI/ERGO)     | [![CircleCI](https://dl.circleci.com/status-badge/img/gh/bencardoen/ERGO.jl/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/bencardoen/ERGO.jl/tree/main)       |  [@](bcardoen@sfu.ca)
@@ -63,5 +63,6 @@ See our [bibliography](https://raw.githubusercontent.com/NanoscopyAI/.github/mai
 ### Contact
 For public contact, please create an [issue](https://github.com/NanoscopyAI/.github/issues/new/choose). The individual projects have contact info listed above. Each publication also has corresponding authors.
 If you need private contact means, please create an issue and we will follow up with a private channel.
+
 
 
